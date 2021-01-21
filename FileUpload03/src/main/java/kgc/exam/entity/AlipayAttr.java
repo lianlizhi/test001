@@ -1,3 +1,4 @@
+
 package  kgc.exam.entity;
 
 public class AlipayAttr {
@@ -34,3 +35,4 @@ public class AlipayAttr {
     
     
 }
+
