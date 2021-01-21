@@ -1,4 +1,4 @@
-package com.kgc.exam.entity;
+package kgc.exam.entity;
 
 import java.io.IOException;
 import java.util.HashMap;
