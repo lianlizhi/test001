@@ -3,8 +3,8 @@ package  kgc.exam.entity;
 public class AlipayAttr {
 	
 
-//1223243
-//test
+	//1223243
+	//test
 	// 应用ID,您的APPID，收款账号既是您的APPID对应支付宝账号
     public static String app_id = "2016091700535489";
 
