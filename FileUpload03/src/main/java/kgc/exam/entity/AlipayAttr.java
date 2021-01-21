@@ -2,7 +2,7 @@ package  kgc.exam.entity;
 
 public class AlipayAttr {
 	
-
+12
 	//1223243
 	//test
 	// 应用ID,您的APPID，收款账号既是您的APPID对应支付宝账号
